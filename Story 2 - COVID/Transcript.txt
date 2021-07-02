@@ -1,0 +1,14 @@
+The covid-19 pandemic has caused social and economic impact in a severe way. Globally, this disease has affected more than 100 million, spread to 185 countries, and caused more than 2.5 million deaths since it was first reported in 2019. 
+Countries can implement safety measures by looking at how other countries are dealing with the covid-19 pandemic. 
+
+Data extracted from the John Hopkins University is presented here as an interactive global map which indicates different types of cases and their counts. 
+The number of cases can be understood by visually looking at the circle radius. The large circles mean high number of cases, whereas, smaller circles as low number of cases. We can navigate to country locations in map to get the value counts for Confirmed, Death and Recovered cases. 
+
+As we can see, US has highest number of confirmed cases with count around 29.7 million, whereas, India has cases with count around 11.5 million. When it comes to death cases, US standing at 540,000 and India at 159,000. For recovery cases, India is on high with a count of 11.1 million and US with a count of 6.3 million. 
+The low difference of confirmed-death-recovery can be looked as a country performing better in slowing the spread of virus and vice versa. The difference of cases is higher in US as compared to India which explains that India is performing better dealing with the virus. 
+
+An attempt to treat infected people and contain the spread of the virus, different government officials and public health agencies has imposed travel restrictions, made people maintain social distance and wearing masks mandatory. 
+
+To suggest, countries may start producing and circulating approved vaccines depending on the efficacy rate and doses to combat the virus. 
+
+In the end, we can each help to prevent the spread of virus by following the safety measures and protocols.
